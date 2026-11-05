@@ -1,0 +1,15 @@
+{
+  "repository": "module-music-sync-offline-filament",
+  "capabilityKey": "liberusoftware/music-sync-offline",
+  "presentation": "laravel-filament",
+  "package": "liberusoftware/music-sync-offline-filament",
+  "foundation": "module-boilerplate-filament",
+  "foundationCommit": "9282e55622b1abd4db48da891480cd9cac46c158",
+  "canonicalPlan": "projects/music/nextjs/sync-offline.md",
+  "presentationPlan": "projects/music/filament/sync-offline.md",
+  "identityReviewRequired": false,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "music"
+  ]
+}
